@@ -867,8 +867,6 @@
     margin-top: 2%;
     width: 100%;
     background-size: cover;
-    /* background-image: url(images/background.png); */
-    /* background-color: rgba(128, 128, 128, 0.096); */
     background-position: center;
     padding: 2% 8%;
     position: relative;
@@ -1258,13 +1256,11 @@
   }
 
   .map{
-    margin-top: 2%;
+    margin-top: 2%; 
     width: 100%;
     background-size: cover;
-    /* background-image: url(images/background.png); */
-    /* background-color: rgba(128, 128, 128, 0.096); */
     background-position: center;
-    padding: 2% 8%;
+    padding: 2% 0%;
     position: relative;
     text-align: center;
     justify-content: center;
@@ -1661,8 +1657,6 @@
     width: 100%;
     height: 90vh;
     background-size: cover;
-    /* background-image: url(images/background.png); */
-    /* background-color: rgba(128, 128, 128, 0.096); */
     background-position: center;
     padding: 2% 8%;
     position: relative;
@@ -1698,7 +1692,6 @@
   .containerr{
       width: 100%;
       height: 100%;
-      /* background-image: linear-gradient(rgba(0,0,0,0.1), transparent), url(images/back-final2.png); */
       background-size: cover;
       background-position: center;
       padding: 0 8%;
